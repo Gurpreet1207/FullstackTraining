@@ -1,0 +1,203 @@
+#box{
+    color:black;
+    border:2px solid black;
+    height:400px;
+    width:1500px;
+    background-color: grey;
+     
+    
+}
+#i{
+   height:250 ;
+   width:1150 ;
+   border: 5px solid grey;
+   background-color:grey ;
+   display: flex;
+   justify-content: space-evenly;
+}
+#key{
+    
+    height:250px
+    width:1150px;
+    background-color: grey;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+ #icon{
+    color:black;
+    border:1px solid grey;
+    height:50px;
+    width:80px;
+    background-color: black;
+    border-radius: 15%;
+}
+ 
+ 
+#boa{
+    
+    height:250px
+    width:1150px;
+    background-color: grey;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+#q{
+    color:black;
+    border:1px solid grey;
+    height:60px;
+    width:60px;
+    background-color: black;
+    border-radius: 15%;
+}
+
+
+ #ord{
+    color:black;
+    border:2px solid grey;
+    height:60px;
+    width:80px;
+    background-color: black;
+    border-radius: 15%;
+
+}
+
+#delr{
+    color:black;
+    border:2px solid grey;
+    height:60px;
+    width:140px;
+    background-color: black;
+    border-radius: 15%;
+
+}
+#de{
+    color:black;
+    border:2px solid grey;
+    height:60px;
+    width:110px;
+    background-color: black;
+    border-radius: 15%;
+
+}
+p{
+    color:white ;
+    text-align: center;
+}
+#ayu{
+    
+    height:250px
+    width:1150px;
+    background-color: grey;
+    display: flex;
+    justify-content: space-evenly;
+}
+#or{
+    color:black;
+    border:2px solid grey;
+    height:60px;
+    width:100px;
+    background-color: black;
+    border-radius: 10%;
+
+}
+ 
+
+#aru{
+    
+    height:250px
+    width:1150px;
+    background-color: grey;
+    display: flex;
+    justify-content: space-evenly;
+}#o{
+    color:black;
+    border:2px solid grey;
+    height:60px;
+    width:160px;
+    background-color: black;
+    border-radius: 10%;
+
+} 
+#aryan{
+    color:black;
+    border:2px solid grey;
+    height:60px;
+    width:140px;
+    background-color: black;
+    border-radius: 15%;
+
+} 
+#priti{
+    
+    height:250px
+    width:1150px;
+    background-color: grey;
+    display: flex;
+    justify-content: space-evenly;
+} 
+
+ 
+ #srv{
+    color:black;
+    border:2px solid grey;
+    height:60px;
+    width:180px;
+    background-color: black;
+    border-radius: 8%;
+
+} #y{
+    color:black;
+    border:2px solid grey;
+    height:60px;
+    width:190px;
+    background-color: black;
+    border-radius: 8%;
+
+}
+#u{
+    color:black;
+    border:2px solid grey;
+    height:60px;
+    width:220px;
+    background-color: black;
+    border-radius: 8%;
+
+} 
+#gota{
+    
+    height:250px
+    width:1150px;
+    background-color: grey;
+    display: flex;
+    justify-content: space-evenly;
+} 
+ #shi{
+    color:black;
+    border:2px solid grey;
+    height:60px;
+    width:400px;
+    background-color: black;
+    border-radius: 10%;
+
+} 
+ #paru{
+    color:black;
+    border:2px solid grey;
+    height:30px;
+    width:60px;
+    background-color: black;
+    border-radius: 15%;
+    
+
+}#anshu{
+    color:black;
+    border:2px solid grey;
+    height:30px;
+    width:60px;
+    background-color: black;
+    border-radius: 15%;
+    
+
+}

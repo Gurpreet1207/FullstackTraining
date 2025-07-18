@@ -1,0 +1,88 @@
+#parent{
+    width:85%;
+    height: 600px;
+    border:2px solid gray;
+    display:grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 10px;
+    border-radius: 1%;
+}
+#parent>div:nth-child(1){
+    background-color: grey;
+    border-radius: 4%;
+}
+#parent>div:nth-child(4){
+    background-color: green;
+      border-radius: 4%;
+}
+#parent>div:nth-child(5){
+    background-color: palevioletred;
+      border-radius: 4%;
+}
+#parent>div:nth-child(3){
+    background-color:pink;
+      border-radius: 4%;
+}
+
+#parent>div:nth-child(2){ 
+    background-color: yellow;
+    grid-area: 1/2/2/4;
+      border-radius: 4%;
+}
+#parent>div:nth-child(8){
+    background-color: greenyellow;
+    grid-area:2/3/4/5 ;
+      border-radius: 4%;
+} 
+#parent>div:nth-child(9){
+    background-color: black;
+    grid-area:3/1/6/2 ;
+      border-radius: 4%;
+}
+#parent>div:nth-child(10){
+    background-color: violet;
+      border-radius: 4%;
+    
+}
+#parent>div:nth-child(11){
+    background-color: red;
+    grid-area:4/4/7/5 ;
+      border-radius: 4%;
+  
+}
+#parent>div:nth-child(12){
+    background-color: peru;
+      border-radius: 4%;
+    
+}
+
+#parent>div:nth-child(13){
+    background-color: blue;
+      border-radius: 4%;
+    
+}
+
+#parent>div:nth-child(14){
+    background-color: maroon;
+      border-radius: 4%;
+    
+}
+
+#parent>div:nth-child(7){
+    background-color: mediumvioletred;
+    grid-area:4/2/7/3 ;
+      border-radius: 4%;
+    
+}
+
+#parent>div:nth-child(6){
+    background-color: purple;
+      border-radius: 4%;
+    
+}
+
+.box{
+    /* width:200px;
+    height:150px; */
+    border:1px solid red;
+}

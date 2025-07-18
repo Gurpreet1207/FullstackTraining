@@ -1,0 +1,10 @@
+#parent {
+    width: 100%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    border: 1px solid goldenrod;
+    
+    
+}
